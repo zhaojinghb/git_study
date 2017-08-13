@@ -3,3 +3,5 @@ This is second line!
 This is third line!
 Creating a new branch is quick and simple.
 Why there is nothing here.
+I want to try again_master.
+I want to try features.
